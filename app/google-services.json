@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "938046294830",
+    "firebase_url": "https://thrift-wear-c1e8a.firebaseio.com",
+    "project_id": "thrift-wear-c1e8a",
+    "storage_bucket": "thrift-wear-c1e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938046294830:android:2900d20342fee3813308bf",
+        "android_client_info": {
+          "package_name": "com.example.thriftwear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938046294830-6nree00crnmifd28kv7l8cq05st94i4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thriftwear",
+            "certificate_hash": "647a7c1fcc1557c5442d66f05003bd4ca044005a"
+          }
+        },
+        {
+          "client_id": "938046294830-82jj0s7vtilqehakqjh4v9eopkncofhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXU1fUjggJVhlxWjyMd0w1m4CQJUDeD-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938046294830-82jj0s7vtilqehakqjh4v9eopkncofhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

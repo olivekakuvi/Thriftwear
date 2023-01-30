@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Uni Learn</string>
+    <string name="log_out">Log out</string>
+    <string name="textview">TextView</string>
+    <string-array name="YearChoice">
+        <item>YEAR 1 (S1)</item>
+        <item>YEAR 1 (S2)</item>
+        <item>YEAR 2 (S1)</item>
+        <item>YEAR 2 (S2)</item>
+        <item>YEAR 3 (S1)</item>
+        <item>YEAR 3 (S2)</item>
+        <item>YEAR 4 (S1)</item>
+        <item>YEAR 4 (S2)</item>
+    </string-array>
+</resources>
